@@ -2,7 +2,7 @@
 
 # Introduction 
 
-This Project is part of the SpringMVC-Api-Mendonca – Beta 2 (https://github.com/gabriekq/SpringMVC-Api-Mendonca).
+This Project is part of the SpringMVC-Api-Mendonca – Beta 2 (https://github.com/gabriekq/SpringMVC-Api-Mendonca/tree/beta2).
 The Text-pic-Mendonca takes a resume’s picture and transforms it to text format than create an (.txt) file with the name of the picture.
 # How is it work
 1 – The app connects to a MySQL database to get the picture’s path and letter load it.
